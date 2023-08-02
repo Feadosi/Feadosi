@@ -1,4 +1,4 @@
-[![Header](storage/Embedded_Computers.jpg)](https://www.shpavda.com/)
+[![Header](storage/photo_2023-08-02_20-12-22.jpg)](https://www.shpavda.com/)
 
 ## Content/Apps/Games Creator
 
