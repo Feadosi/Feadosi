@@ -1,4 +1,4 @@
-[![Header](https://github.com/Feadosi/Feadosi/blob/main/storage/Types%20of%20Storage%20-%20Embedded%20Computers.jpg)](https://www.shpavda.com/)
+[![Header](storage/Embedded_Computers.jpg)](https://www.shpavda.com/)
 
 ## Content/Apps/Games Creator
 
