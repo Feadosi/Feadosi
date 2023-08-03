@@ -1,4 +1,4 @@
-[![Header](storage/header.jpg)](https://www.shpavda.com/)
+[![Header](storage/header.jpg)]()
 
 # Hi there 👋, my name is Feodosiy
 ## I'm an embedded systems developer
