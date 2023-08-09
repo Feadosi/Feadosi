@@ -48,6 +48,7 @@ Over the course of my career, I've gained proficiency in several development env
 
 - VS Code
 
+- Microchip Studio
 
 ## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/feodosiy24)
