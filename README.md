@@ -1,62 +1,75 @@
-[![Header](storage/header.jpg)]()
 
-# Hi there 👋, my name is Feodosiy
-## I'm an embedded systems developer
-___
+
+# My name is Feodosiy
+## I'm an Embedded Software Engineer 
+
 
 ## 💻 Programming Languages
-
-I'm proficient in several programming languages that are widely used in the field of embedded systems development. These include:
+I'm proficient in several programming languages used in embedded systems development:
 
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=47C5FB)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Assembler](https://img.shields.io/badge/-Assembler-090909?style=for-the-badge&logo=Assembler&logoColor=097CDB)
-![Matlab](https://img.shields.io/badge/-Matlab-090909?style=for-the-badge&logo=Matlab&logoColor=E5D3FF)
-![AltiumDesigner](https://img.shields.io/badge/-AltiumDesigner-090909?style=for-the-badge&logo=AltiumDesigner&logoColor=E5D3FF)
-
-### And others
-
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=E9D54D)
-![VHDL](https://img.shields.io/badge/-VHDL-090909?style=for-the-badge&logo=VHDL&logoColor=F8C52C)
-![Verilog](https://img.shields.io/badge/-Verilog-090909?style=for-the-badge&logo=Verilog&logoColor=F88C00)
+![Assembler](https://img.shields.io/badge/-Assembler-090909?style=for-the-badge&logo=AssemblyScript&logoColor=097CDB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
+![MATLAB](https://img.shields.io/badge/-MATLAB-090909?style=for-the-badge&logo=Mathworks&logoColor=E5D3FF)
 
+
+---
+
+## 🔌 Microcontrollers & Embedded Tools
+
+![STM32](https://img.shields.io/badge/-STM32-090909?style=for-the-badge&logo=STMicroelectronics&logoColor=1C9DEB)
+![GD32](https://img.shields.io/badge/-GD32-090909?style=for-the-badge&logo=GigaDevice&logoColor=E9D54D)
+![ESP32](https://img.shields.io/badge/-ESP32-090909?style=for-the-badge&logo=Espressif&logoColor=E7352C)
+![Atmega](https://img.shields.io/badge/-ATmega-090909?style=for-the-badge&logo=Atmel&logoColor=1C9DEB)
+
+**Interfaces:** SPI, I2C, UART, CAN, USB, PS/2, ADC, RTC, PWM  
+**Frameworks:** FreeRTOS, CANOpen, LVGL, TouchGFX  
+**Bootloaders:** USB CDC, CAN
+
+---
 
 ## 🛠️ CAD Design Skills
+I have extensive experience in electronics and PCB development using:
 
-I have extensive experience in Computer-Aided Design (CAD) and have used various tools to design and simulate the behavior of digital systems, including:
+- Altium Designer  
+- Fusion 360  
+- Proteus  
+- EasyEDA  
 
-- Altium Designer
+---
 
-- EasyEDA
+## 🛡️ Development Environments
+Throughout my embedded engineering career I've used:
 
-- Proteus
+- STM32CubeIDE  
+- STM32CubeMX  
+- Keil MDK  
+- ESP-IDF / ESP32-IDE  
+- VS Code  
+- Microchip Studio  
 
-- Fusion 360
+---
 
-## 🎯 Development Environments
+## 🚌 What I Work On
+✔ Control units for buses, trams, trolleybuses  
+✔ Power modules (monitoring, overload/short-circuit protection)  
+✔ Linux device drivers  
+✔ Testing automation in Python  
+✔ Graphical UI for displays (LVGL, TouchGFX)
 
-Over the course of my career, I've gained proficiency in several development environments that are pivotal for embedded systems development:
-
-- STM32Cube IDE
-
-- STM32Cube MX
-
-- Espressif IDE
-
-- Keil
-
-- VS Code
-
-- Microchip Studio
+---
 
 ## 📫 How to reach me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/feodosiy24)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/feodosiy24?igshid=MzRlODBiNWFlZA==)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/feodosiy-lemachko)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feadosi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/feadosi24)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/feodosiy24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/feadosi-liamachka)
+
+---
+
+## 📊 GitHub Stats
+
+[![Feodosiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feadosi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feadosi&layout=compact&theme=radical)
