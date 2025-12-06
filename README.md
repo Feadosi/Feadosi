@@ -1,6 +1,6 @@
 
 
-# My name is Feodosiy
+# My name is Feadosi
 ## I'm an Embedded Software Engineer 
 
 
