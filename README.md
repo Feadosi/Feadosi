@@ -66,10 +66,3 @@ Throughout my embedded engineering career I've used:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/feodosiy24)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/feadosi-liamachka)
 
----
-
-## 📊 GitHub Stats
-
-[![Feodosiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feadosi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feadosi&layout=compact&theme=radical)
