@@ -66,3 +66,30 @@ Throughout my embedded engineering career I've used:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/feodosiy24)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/feadosi-liamachka)
 
+
+---
+
+
+## 📁 Project Naming Convention
+
+All projects follow a unified naming format:
+
+### **`XXX_YYY_ZZZ`**
+
+Where:
+
+### 🔷 **XXX — Project Type**  
+Defines the category of the project. Examples:  
+- `APP` — application-level projects  
+- `DRV` — hardware drivers  
+- `LRN` — learning or experimental projects  
+
+### 🟩 **YYY — Protocol / Interface / Technology**  
+Indicates the protocol, interface, or technology used in the project. Examples:  
+`I2C`, `SPI`, `UART`, `ETH`, `LCD`, `WS2812`, `RTOS`, etc.
+
+### 🟦 **ZZZ — Driver / Chip / Technology Name**  
+Specifies the exact chip, module, driver, or implemented technology. Examples:  
+`DS3231`, `ST7789`, `ENC28J60`, `LVGL`, `FATFS`
+
+---
