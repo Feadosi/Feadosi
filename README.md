@@ -82,7 +82,8 @@ Where:
 Defines the category of the project. Examples:  
 - `APP` — application-level projects  
 - `DRV` — hardware drivers  
-- `LRN` — learning or experimental projects  
+- `LRN` — learning or experimental projects
+- `PCB` — electronics design projects (schematics, PCB layouts)
 
 ### 🟩 **YYY — Protocol / Interface / Technology**  
 Indicates the protocol, interface, or technology used in the project. Examples:  
