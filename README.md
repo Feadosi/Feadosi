@@ -84,6 +84,7 @@ Defines the category of the project. Examples:
 - `DRV` — hardware drivers  
 - `LRN` — learning or experimental projects
 - `PCB` — electronics design projects (schematics, PCB layouts)
+- `LBR` — libraries (reusable modules, shared code, utility functions)
 
 ### 🟩 **YYY — Protocol / Interface / Technology**  
 Indicates the protocol, interface, or technology used in the project. Examples:  
